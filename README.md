@@ -1,2 +1,2 @@
 ## DataCamp Guided Project
-### DataCamp - Guided Project on Data Science for Social Good
+##### Project on Data Science for Social Good
